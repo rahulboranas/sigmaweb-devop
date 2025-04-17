@@ -1,2 +1,2 @@
 # sigmaweb-devop
-currently learning how git hub work 
+currently learning how git hub work.
